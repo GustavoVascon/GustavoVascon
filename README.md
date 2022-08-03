@@ -4,7 +4,7 @@
   <a href="mailto:"gustavovasconcelosti@gmail.com"" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"  />
   </a>
-  <a href="https:/https://www.linkedin.com/in/gustavo-vasconcelos-0a4942247//" target="_blank">
+  <a href="https:/https://www.linkedin.com/in/gustavo-vasconcelos-0a4942247/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
   </a>
 </div>
