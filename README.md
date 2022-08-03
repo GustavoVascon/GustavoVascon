@@ -11,9 +11,11 @@
 
 <h3 align="left">👨‍💻 Sobre mim </h3>
 
-💻 Trabalho: Atualmente sou Trainee de Desenvolvimento na Ubook
+💻 Trainee de Desenvolvimento na Ubook
 
-📚 Graduação: Estou no primeiro período de Análise e Desenvolvimento de Sistemas pelo SENAC
+📚 Primeiro período de Análise e Desenvolvimento de Sistemas pelo SENAC
+
+🌱 Buscando evoluir como desenvolvedor back-end 
 
 <h2 align="left">Tecnologias</h2>
 
