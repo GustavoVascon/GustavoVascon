@@ -11,11 +11,9 @@
 
 <h3 align="left">👨‍💻 Sobre mim </h3>
 
-💻 Trainee de Desenvolvimento na Ubook
-
 📚 Primeiro período de Análise e Desenvolvimento de Sistemas pelo SENAC
 
-🌱 Buscando evoluir como desenvolvedor back-end 
+🌱 Buscando evoluir como desenvolvedor
 
 <h2 align="left">Tecnologias</h2>
 
