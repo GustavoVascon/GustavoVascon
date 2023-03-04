@@ -15,10 +15,6 @@
 
 🌱 Buscando evoluir na área de Dados
 
-<h2 align="left">Estudos e Projetos</h2>
-
-Atualmente meus estudos estão voltados para Power BI e Python Notebook.
-
 <h2 align="left">Tecnologias</h2>
 
 ###
