@@ -9,13 +9,16 @@
   </a>
 </div>
 
+###
+
 <h3 align="left">Sobre mim </h3>
+
 ###
 
 📚 Segundo período de Análise e Desenvolvimento de Sistemas pelo SENAC
 
 🌱 Buscando evoluir na área de Dados
-###
+
 
 <h3 align="left">Tecnologias</h3>
 
