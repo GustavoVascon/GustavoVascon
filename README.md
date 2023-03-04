@@ -11,9 +11,9 @@
 
 <h3 align="left">👨‍💻 Sobre mim </h3>
 
-📚 Primeiro período de Análise e Desenvolvimento de Sistemas pelo SENAC
+📚 Segundo período de Análise e Desenvolvimento de Sistemas pelo SENAC
 
-🌱 Buscando evoluir como desenvolvedor
+🌱 Buscando evoluir na área de Dados
 
 <h2 align="left">Tecnologias</h2>
 
