@@ -15,6 +15,10 @@
 
 🌱 Buscando evoluir na área de Dados
 
+<h2 align="left">Estudos e Projetos</h2>
+
+Atualmente meus estudos estão voltados para Power BI e Python Notebook. Estou desenvolvendo projetos com Power BI e Python Notebook.
+
 <h2 align="left">Tecnologias</h2>
 
 ###
@@ -27,8 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="Mysql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git"/>
-  
- 
 </div>
 
 ###
