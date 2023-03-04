@@ -17,7 +17,7 @@
 
 <h2 align="left">Estudos e Projetos</h2>
 
-Atualmente meus estudos estão voltados para Power BI e Python Notebook. Estou desenvolvendo projetos com Power BI e Python Notebook.
+Atualmente meus estudos estão voltados para Power BI e Python Notebook.
 
 <h2 align="left">Tecnologias</h2>
 
