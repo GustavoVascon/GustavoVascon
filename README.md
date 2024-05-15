@@ -15,7 +15,7 @@
 
 ###
 
-📚 Segundo período de Análise e Desenvolvimento de Sistemas pelo SENAC
+📚 Quarto período de Sistemas da Informação pela Universidade Veiga de Almeida
 
 🌱 Buscando evoluir na área de Dados
 
