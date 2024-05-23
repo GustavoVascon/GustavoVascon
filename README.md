@@ -17,14 +17,12 @@
 
 📚 Quarto período de Sistemas da Informação pela Universidade Veiga de Almeida
 
-🌱 Buscando evoluir na área de Dados
-
-
 <h3 align="left">Tecnologias</h3>
 
 ###
 
 <div align="left">
+  <img src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" height="40" width="52" alt="Java"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="52" alt="Power BI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="52" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" width="125" alt="Pandas"/>
