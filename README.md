@@ -11,7 +11,6 @@
 
 ###
 
-📚 Quarto período de Sistemas da Informação pela Universidade Veiga de Almeida
 
 <h3 align="left">Tecnologias</h3>
 
