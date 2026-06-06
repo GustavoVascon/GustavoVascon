@@ -3,8 +3,8 @@
 <h3 align="center">Desenvolvedor Java | Spring Boot | Angular | React</h3>
 
 <p align="center">
-  <a href="mailto:gustavovasconcelosti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/gustavo-vasconcelosti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Vasconcelos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
