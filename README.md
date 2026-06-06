@@ -31,7 +31,6 @@ Atualmente continuo aprimorando meus conhecimentos em **React, TypeScript, Docke
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="45" alt="Hibernate"/>
 </p>
 
 ### Frontend
@@ -48,8 +47,9 @@ Atualmente continuo aprimorando meus conhecimentos em **React, TypeScript, Docke
 ### Banco de Dados
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
 </p>
 
 ### Ferramentas e DevOps
@@ -83,16 +83,3 @@ Atualmente continuo aprimorando meus conhecimentos em **React, TypeScript, Docke
 - Struts
 
 ---
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoVascon&show_icons=true&theme=prussian" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVascon&layout=compact&theme=prussian" height="170" />
-</div>
-
----
-
-## 🎯 Objetivo
-
-Construir soluções robustas, escaláveis e de alta qualidade utilizando Java e tecnologias modernas, evoluindo constantemente em áreas como React, Docker, Microsserviços e Arquitetura de Software.
