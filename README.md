@@ -1,37 +1,98 @@
-<h2 align="left">Gustavo Vasconcelos</h2>
+<h1 align="center">Olá, eu sou Gustavo Vasconcelos 👋</h1>
 
-<div align="left">
-  <a href=mailto:gustavovasconcelosti@gmail.com target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"/>
-</div>
+<h3 align="center">Desenvolvedor Java | Spring Boot | Angular | React</h3>
 
-###
+<p align="center">
+  <a href="mailto:gustavovasconcelosti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<h3 align="left">Sobre mim </h3>
+---
 
-###
+## 🚀 Sobre Mim
 
+Desenvolvedor Java com experiência no desenvolvimento, manutenção e evolução de sistemas corporativos.
 
-<h3 align="left">Tecnologias</h3>
+Atualmente atuo na **Mestra Informática**, participando de todas as etapas do ciclo de desenvolvimento de software, desde a análise de requisitos e resolução de problemas até a implementação de novas funcionalidades e suporte a aplicações em produção.
 
-###
+Possuo experiência no desenvolvimento de **APIs REST com Spring Boot**, integração com bancos de dados **SQL Server** e **Oracle**, testes unitários com **Mockito** e manutenção de aplicações corporativas utilizando tecnologias como **Java, Hibernate, JSP, Struts e Angular**.
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" height="40" width="52" alt="Java"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="52" alt="Power BI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="52" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" width="125" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" width="90" alt="Numpy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="Postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="Mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git"/>
-</div>
+Tenho facilidade para atuar tanto em sistemas legados quanto em projetos modernos, buscando sempre desenvolver soluções eficientes, escaláveis e alinhadas às necessidades do negócio.
 
-###
+Atualmente continuo aprimorando meus conhecimentos em **React, TypeScript, Docker e Arquitetura de Software**, com foco no desenvolvimento de aplicações modernas e de alta qualidade.
+
+---
+
+## 💻 Principais Tecnologias
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="45" alt="Hibernate"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+</p>
+
+### Banco de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle"/>
+</p>
+
+### Ferramentas e DevOps
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+</p>
+
+---
+
+## 📚 Conhecimentos
+
+- Java (5, 7, 8 e 17)
+- Spring Boot
+- Hibernate / JPA
+- Angular
+- React
+- TypeScript
+- JavaScript
+- SQL Server
+- Oracle
+- APIs REST
+- JWT
+- Swagger
+- Mockito
+- Git
+- Tomcat
+- JSP
+- Struts
+
+---
+
+## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&username=GustavoVascon" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&username=GustavoVascon" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoVascon&show_icons=true&theme=prussian" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVascon&layout=compact&theme=prussian" height="170" />
 </div>
 
-###
+---
+
+## 🎯 Objetivo
+
+Construir soluções robustas, escaláveis e de alta qualidade utilizando Java e tecnologias modernas, evoluindo constantemente em áreas como React, Docker, Microsserviços e Arquitetura de Software.
